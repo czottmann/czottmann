@@ -1,16 +1,14 @@
-### Hi there 👋
+**Hi from Northern Germany!** 👋 I'm Carlo and currently I focus my open-source work on plugins and apps related to [Obsidian](https://obsidian.md), my fave note-taking and project planning tool.  Right now, it's these here **plugins**:
 
-<!--
-**czottmann/czottmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Actions URI](https://github.com/czottmann/obsidian-actions-uri) adds many additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI. [🚧 WIP]
+- [Blockquote Levels](https://github.com/czottmann/obsidian-blockquote-levels) adds commands for increasing/decreasing the blockquote level of the current line or selection(s). (⏱ In review for the Community Plugins section in Obsidian.)
+- [Copy Search URL](https://github.com/czottmann/obsidian-copy-search-url) adds a button to its search view for copying the Obsidian search URL. (✅ Available from the Community Plugins section in Obsidian!)
+- A big-ass mystery project I'm not ready to talk about. :)
 
-Here are some ideas to get you started:
+Other notable projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Free iconpacks for the Elgato Stream Deck:
+  - [based on Microsoft's Fluent UI System Icons](https://github.com/czottmann/streamdeck-iconpack-fluentui-system-icons)
+  - [based on System UIcons](https://github.com/czottmann/streamdeck-iconpack-system-uicons)
+  
+Wanna get in touch? Find me on [Twitter](https://twitter.com/municode) or [Mastodon](https://norden.social/@czottmann).
