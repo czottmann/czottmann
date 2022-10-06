@@ -4,9 +4,11 @@
 
 [<img src="https://raw.githubusercontent.com/czottmann/obsidian-blockquote-levels/main/readme-assets/blockquote-levels-128.png" align="left" height="40" alt="Plugin logo thingie: a chevron, a plus, a chevron">**Blockquote Levels**](https://github.com/czottmann/obsidian-blockquote-levels) adds commands for increasing/decreasing the blockquote level of the current line or selection(s). (⏱ In review for the Community Plugins section in Obsidian.)
 
-[<img src="https://raw.githubusercontent.com/czottmann/obsidian-copy-search-url/main/readme-assets/copy-search-url-128.png" align="left"  height="40" alt="Plugin logo thingie: a list icon, a plus, a link icon">**Copy Search URL**](https://github.com/czottmann/obsidian-copy-search-url) adds a button to its search view for copying the Obsidian search URL. (✅ Available from the Community Plugins section in Obsidian!)
+[<img src="https://raw.githubusercontent.com/czottmann/obsidian-copy-search-url/main/readme-assets/copy-search-url-128.png" align="left" height="40" alt="Plugin logo thingie: a list icon, a plus, a link icon">**Copy Search URL**](https://github.com/czottmann/obsidian-copy-search-url) adds a button to its search view for copying the Obsidian search URL. (✅ Available from the Community Plugins section in Obsidian!)
 
-… and a big-ass 🚧🚧 mystery project I'm not ready to talk about. :)
+[<img src="https://obsidian.actions.work/assets/app-icon.2d8a0dea.png" align="left" height="40">**Actions for Obsidian**](https://obsidian.actions.work/): Practical new Obsidian actions for the Shortcuts app on macOS and iOS. Bridge the gap between your notes and your workflows. 
+
+---
 
 Other notable projects:
 
