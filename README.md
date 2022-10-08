@@ -13,7 +13,7 @@
 [<img src="https://raw.githubusercontent.com/czottmann/obsidian-copy-search-url/main/readme-assets/copy-search-url-128.png" align="left" height="64" alt="Plugin logo thingie: a list icon, a plus, a link icon">**Copy Search URL**](https://github.com/czottmann/obsidian-copy-search-url) adds a button to its search view for copying the Obsidian search URL.  
 ✅ [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann)
 
-<br>
+<br><br>
 
 [<img src="https://obsidian.actions.work/favicon-180-precomposed.png" align="left" height="54">**Actions for Obsidian**](https://obsidian.actions.work/): Useful new Obsidian actions for the Shortcuts app on macOS and iOS.  
 🚧 WIP, beta coming soon, check the site for updates!
