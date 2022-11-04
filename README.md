@@ -1,7 +1,7 @@
 **Hi from Northern Germany!** 👋 I'm Carlo and currently I focus my open-source work on plugins and apps related to [Obsidian](https://obsidian.md), my fave note-taking and planning tool.  Right now, that's these here projects:
 
 [<img src="https://raw.githubusercontent.com/czottmann/obsidian-actions-uri/main/readme-assets/actions-uri-128.png" align="left" height="64" alt="Plugin logo thingie: an app icon, a two-way communications icon, a note icon">**Actions URI**](https://github.com/czottmann/obsidian-actions-uri) adds many additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI.  
-⏱ In review for the Community Plugins section in Obsidian
+✅ [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann)
 
 <br>
 
