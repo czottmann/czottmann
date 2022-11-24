@@ -28,4 +28,4 @@ Other notable projects:
   - [based on Microsoft's Fluent UI System Icons](https://github.com/czottmann/streamdeck-iconpack-fluentui-system-icons)
   - [based on System UIcons](https://github.com/czottmann/streamdeck-iconpack-system-uicons)
   
-Wanna get in touch? Find me on [Twitter](https://twitter.com/municode) or <a rel="me" href="https://norden.social/@czottmann">Mastodon</a>.
+Wanna get in touch? Find me on ~[Twitter](https://twitter.com/municode) or~ <a rel="me" href="https://norden.social/@czottmann">Mastodon</a>.
