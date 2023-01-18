@@ -16,7 +16,7 @@
 <br><br>
 
 [<img src="https://obsidian.actions.work/favicon-180-precomposed.png" align="left" height="54">**Actions for Obsidian**](https://obsidian.actions.work/): Useful new Obsidian actions for the Shortcuts app on macOS and iOS.  
-🚧 WIP, beta coming soon, check the site for updates!
+🚧 macOS beta ongoing, iOS beta coming soon — check the site for updates!
 
 <br>
 
@@ -28,4 +28,4 @@ Other notable projects:
   - [based on Microsoft's Fluent UI System Icons](https://github.com/czottmann/streamdeck-iconpack-fluentui-system-icons)
   - [based on System UIcons](https://github.com/czottmann/streamdeck-iconpack-system-uicons)
   
-Wanna get in touch? Find me on ~[Twitter](https://twitter.com/municode) or~ <a rel="me" href="https://norden.social/@czottmann">Mastodon</a>.
+Wanna get in touch? Find me on <a rel="me" href="https://norden.social/@czottmann">Mastodon</a>.
