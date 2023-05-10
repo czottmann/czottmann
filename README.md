@@ -17,7 +17,7 @@
 
 [<img src="https://obsidian.actions.work/favicon-180-precomposed.png" align="left" height="54">**Actions for Obsidian**](https://obsidian.actions.work/): Useful new Obsidian actions for the Shortcuts app on macOS and iOS.  
 ✅ [Available on the Mac App Store](https://apps.apple.com/app/id1659667937)<br>
-🚧 iOS beta coming soon — check the site for updates!
+🚧 [iOS TestFlight available](https://obsidian.actions.work/testflight)
 
 <br>
 
