@@ -8,13 +8,13 @@
   ✅ [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann)
 - [**Logstravaganza**](https://github.com/czottmann/obsidian-logstravaganza) is a simple proxy for `console.*()` calls which copies log messages and uncaught exceptions to a note. Mainly aimed at plugin developers and their customers.  
   🔄 [Submitted as Community Plugin, waiting for review](https://obsidian.md/plugins?id=zottmann)
-
+- [**Mononote**](https://github.com/czottmann/obsidian-mononote) ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab. Works for opening notes via links, menus, hotkeys.  
+  🚧 Will soon be [submitted as Community Plugin](https://obsidian.md/plugins?id=zottmann)
 
 ---
 
 [<img src="https://obsidian.actions.work/favicon-180-precomposed.png" align="left" height="54">**Actions for Obsidian**](https://obsidian.actions.work/): Useful new Obsidian actions for the Shortcuts app on macOS and iOS.  
-✅ [Available on the Mac App Store](https://apps.apple.com/app/id1659667937)<br>
-🚧 [iOS TestFlight available](https://obsidian.actions.work/testflight)
+✅ [Available on the App Store](https://apps.apple.com/app/id1659667937)
 
 ---
 
