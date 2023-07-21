@@ -7,7 +7,7 @@
 - [**Copy Search URL**](https://github.com/czottmann/obsidian-copy-search-url) adds a button to its search view for copying the Obsidian search URL.  
   ✅ [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann)
 - [**Logstravaganza**](https://github.com/czottmann/obsidian-logstravaganza) is a simple proxy for `console.*()` calls which copies log messages and uncaught exceptions to a note. Mainly aimed at plugin developers and their customers.  
-  🔄 [Submitted as Community Plugin, waiting for review](https://obsidian.md/plugins?id=zottmann)
+  ✅ [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann)
 - [**Mononote**](https://github.com/czottmann/obsidian-mononote) ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab. Works for opening notes via links, menus, hotkeys.  
   🚧 Will soon be [submitted as Community Plugin](https://obsidian.md/plugins?id=zottmann)
 
