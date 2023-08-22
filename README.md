@@ -6,7 +6,7 @@
 | [Actions URI](https://github.com/czottmann/obsidian-actions-uri) | Adds many additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI. | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) | 
 | [Blockquote Levels](https://github.com/czottmann/obsidian-blockquote-levels) | Adds commands for increasing/decreasing the blockquote level of the current line or selection(s). | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) |
 | [Logstravaganza](https://github.com/czottmann/obsidian-logstravaganza) | A simple proxy for `console.*()` calls which copies log messages and uncaught exceptions to a note. Mainly aimed at plugin developers and their customers. | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) |
-| 🚧 [Mononote](https://github.com/czottmann/obsidian-mononote) | Ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab. Works for opening notes via links, menus, hotkeys. | [Community Plugin](https://obsidian.md/plugins?id=zottmann) review soon™ |
+| 🚧 [Mononote](https://github.com/czottmann/obsidian-mononote) | Ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab. Works for opening notes via links, menus, hotkeys. | [Community Plugin](https://obsidian.md/plugins?id=zottmann) ongoing |
 
 ---
 
