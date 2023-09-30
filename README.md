@@ -7,7 +7,7 @@
 | [Blockquote Levels](https://github.com/czottmann/obsidian-blockquote-levels) | Adds commands for increasing/decreasing the blockquote level of the current line or selection(s). | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) |
 | [Copy Search URL](https://github.com/czottmann/obsidian-copy-search-url) | Adds a menu entry to its search view for copying the Obsidian search URL. | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) |
 | [Logstravaganza](https://github.com/czottmann/obsidian-logstravaganza) | A simple proxy for `console.*()` calls which copies log messages and uncaught exceptions to a note. Mainly aimed at plugin developers and their customers. | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) |
-| 🚧 [Mononote](https://github.com/czottmann/obsidian-mononote) | Ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab. Works for opening notes via links, menus, hotkeys. | [Community Plugin](https://obsidian.md/plugins?id=zottmann) review ongoing |
+| [Mononote](https://github.com/czottmann/obsidian-mononote) | Ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab. Works for opening notes via links, menus, hotkeys. | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) |
 
 ---
 
