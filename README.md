@@ -2,7 +2,7 @@
 
 | Project | What is it? | |
 | - | - | - |
-| [Actions for Obsidian](https://obsidian.actions.work/) | 40+ useful new [Obsidian](https://obsidian.md) actions for the Shortcuts app on macOS and iOS. |  [Available on the App Store](https://apps.apple.com/app/id1659667937) |
+| [Actions for Obsidian](https://obsidian.actions.work/) | 40+ useful new [Obsidian](https://obsidian.md) actions for the Shortcuts app on macOS and iOS. <small>(Commercial, not open source.)</small> |  [Available on the App Store](https://apps.apple.com/app/id1659667937) |
 | [Actions URI](https://github.com/czottmann/obsidian-actions-uri) | Adds many additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI. | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) | 
 | [Blockquote Levels](https://github.com/czottmann/obsidian-blockquote-levels) | Adds commands for increasing/decreasing the blockquote level of the current line or selection(s). | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) |
 | [Copy Search URL](https://github.com/czottmann/obsidian-copy-search-url) | Adds a menu entry to its search view for copying the Obsidian search URL. | [Available as Community Plugin](https://obsidian.md/plugins?id=zottmann) |
