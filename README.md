@@ -19,4 +19,4 @@ Other notable projects:
   
 Wanna get in touch? Find me on <a rel="me" href="https://norden.social/@czottmann">Mastodon</a>.
 
-<span style="display:none">proven6d1502</span>
+<a rel="me" href="https://proven.lol/6d1502"></a>
