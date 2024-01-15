@@ -1,4 +1,4 @@
-**Hi from Northern Germany!** 👋 I'm Carlo and currently I focus my open-source work on plugins and apps related to [Obsidian](https://obsidian.md), my fave note-taking and planning tool.  Right now, that's these here projects:
+**Hi from Northern Germany!** 👋 I'm Carlo, and currently I focus my development work on 3rd party software for [Obsidian](https://obsidian.md) and macOS/iOS Shortcuts-related productivity apps.  Right now, that's these here projects:
 
 | Project | What is it? | |
 | - | - | - |
