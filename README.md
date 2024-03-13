@@ -21,6 +21,6 @@ Other notable projects:
   - [based on Microsoft's Fluent UI System Icons](https://github.com/czottmann/streamdeck-iconpack-fluentui-system-icons)
   - [based on System UIcons](https://github.com/czottmann/streamdeck-iconpack-system-uicons)
   
-Wanna get in touch? Find me on <a rel="me" href="https://norden.social/@czottmann">Mastodon</a>.
+Wanna get in touch? Find me on <a rel="me" href="https://norden.social/@czottmann">Mastodon</a> or on <a rel="me" href="https://bsky.app/profile/zottmann.dev">Bluesky</a>.
 
 <a rel="me" href="https://proven.lol/6d1502"></a>
