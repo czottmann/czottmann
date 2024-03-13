@@ -14,8 +14,8 @@
 
 Other notable projects:
 
-- **@AppleDeveloperSystemStatus bot**
-  - [An unofficial Mastodon bot](https://techhub.social/@AppleDeveloperSystemStatus) that distributes updates published on Apple's System Status and Developer System Status pages into posts and an RSS feed
+- **[(Unofficial) Apple Developer System Status Feeds](https://zottmann.dev/adss)**
+  - Automated accounts for both [Mastodon](https://techhub.social/@AppleDeveloperSystemStatus) and [Bluesky](https://bsky.app/profile/adss.zottmann.dev) that distribute updates published on Apple's System Status and Developer System Status pages into posts and an RSS feed, as they happen
 
 - **Free iconpacks for the Elgato Stream Deck**:
   - [based on Microsoft's Fluent UI System Icons](https://github.com/czottmann/streamdeck-iconpack-fluentui-system-icons)
