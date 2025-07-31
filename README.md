@@ -16,7 +16,7 @@
 
 Other notable projects:
 
-- **[(Unofficial) Anthropic Status Feeds](https://zottmann.dev/anthrophing)**
+- **[(Unofficial) Anthropic Status Feeds](https://zottmann.dev/anthroping)**
   - Automated accounts for both [Mastodon](https://mastodon.social/@anthroping) and [Bluesky](https://bsky.app/profile/anthroping.zottmann.dev) that distribute updates published on Anthropic's Status page into posts, as they happen
 
 - **[(Unofficial) Apple Developer System Status Feeds](https://zottmann.dev/adss)**
