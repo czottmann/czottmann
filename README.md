@@ -37,4 +37,13 @@ I also create and maintain a number of FOSS projects. Here's a selection of what
 
 - [UI Actions](https://actions.work/ui-actions?ref=github):  Use macOS Shortcuts to control any app that has menus, buttons, or accepts keyboard input. <small>(Commercial, not open source.)</small>
 
+---
+
+## Want to support my open-source work?
+
+I don't offer sponsoring per se[^1] but [next to my own apps, I also sell "Tokens of Appreciation"](https://actions.work/store/). Do with this information what you will. 😉
+
+[^1]: The German revenue service is apparently still having some fits over "money for nothing??".
+
+
 <a rel="me" href="https://proven.lol/6d1502"></a>
