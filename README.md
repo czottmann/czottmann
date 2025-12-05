@@ -41,7 +41,7 @@ I also create and maintain a number of FOSS projects. Here's a selection of what
 
 ## Want to support my open-source work?
 
-I don't offer sponsoring per se[^1] but [next to my own apps, I also sell "Tokens of Appreciation"](https://actions.work/store/). Do with this information what you will. 😉
+I don't offer sponsoring per se[^1] but [next to my own apps, I also sell "Tokens of Appreciation"](https://actions.work/store/?ref=github). Do with this information what you will. 😉
 
 [^1]: The German revenue service is apparently still having some fits over "money for nothing??".
 
