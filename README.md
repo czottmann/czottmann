@@ -43,7 +43,7 @@ I also create and maintain a number of FOSS projects. Here's a selection of what
 
 I don't accept sponsoring in the "GitHub sponsorship" sense[^1] but [next to my own apps, I also sell "Tokens of Appreciation"](https://actions.work/store/?ref=github). Do with this information what you will. 😉
 
-[^1]: The German revenue service is apparently still having some fits over "money for nothing??".
+[^1]: Apparently, the German revenue service is still having some fits over "money for nothing??".
 
 
 <a rel="me" href="https://proven.lol/6d1502"></a>
